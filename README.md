@@ -50,10 +50,7 @@ I hope you have understood what a Music Recommendation System is. Now, in this s
 
 To get started with building a Music Recommendation System, we first need to have an access token. The access token serves as a temporary authorization credential, allowing the code to make authenticated requests to the Spotify API on behalf of the application. Below is how we can get it:
 
-markdown
 
-
-Copy code
 # Music Recommendation System using Spotify API and Python
 
 ## Obtaining an Access Token
